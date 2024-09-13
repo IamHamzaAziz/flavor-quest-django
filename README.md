@@ -14,3 +14,12 @@ I used SQLite database for this project.
 
 ## Primary Key
 Rather than using conventional id, I used uuid (uuid4 more specifically) here.
+
+# Screenshots
+Below are some screenshots of this project
+<img src="screenshots/Screenshot (985).png" />
+<img src="screenshots/Screenshot (986).png" />
+<img src="screenshots/Screenshot (987).png" />
+<img src="screenshots/Screenshot (988).png" />
+<img src="screenshots/Screenshot (989).png" />
+<img src="screenshots/Screenshot (990).png" />
