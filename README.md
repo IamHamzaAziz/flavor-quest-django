@@ -1,4 +1,4 @@
-# FlavorQuest - Recipe Sharing Web App
+# FlavorQuest - Recipe Sharing Website
 
 ## Overview
 
